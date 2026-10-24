@@ -1,6 +1,6 @@
 # Asociación entre la pendiente del segmento ST y la enfermedad cardíaca
 
-Trabajo Práctico Final de **Bioestadística**, Bioingeniería, Instituto Tecnológico de Buenos Aires (ITBA). Trabajo en equipo de 3 personas, agosto de 2026.
+Trabajo Práctico Final de **Bioestadística**, Bioingeniería, Instituto Tecnológico de Buenos Aires (ITBA). Trabajo en equipo de 3 personas, junio de 2026.
 
 **Informe completo (HTML):** `TP_Bioestadistica.html`. Descargalo y abrilo en el navegador, o activá GitHub Pages para verlo online (ver abajo).
 
